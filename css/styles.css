@@ -39,4 +39,21 @@ header>p {
 
 .blue {
   clear: both;
+  background-color: #26547C;
+  position: relative;
+}
+
+.group {
+  width: 60%;
+}
+
+.welcome {
+  position: absolute;
+  top: 0px;
+  right: 2px;
+  font-size: 2em;
+}
+
+#meow {
+  width: 100%
 }
